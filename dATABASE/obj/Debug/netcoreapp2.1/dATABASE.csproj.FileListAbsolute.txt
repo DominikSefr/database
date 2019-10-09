@@ -1,0 +1,11 @@
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\bin\Debug\netcoreapp2.1\dATABASE.deps.json
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\bin\Debug\netcoreapp2.1\dATABASE.runtimeconfig.json
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\bin\Debug\netcoreapp2.1\dATABASE.runtimeconfig.dev.json
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\bin\Debug\netcoreapp2.1\dATABASE.dll
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\obj\Debug\netcoreapp2.1\dATABASE.csprojAssemblyReference.cache
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\obj\Debug\netcoreapp2.1\dATABASE.csproj.CoreCompileInputs.cache
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\obj\Debug\netcoreapp2.1\dATABASE.AssemblyInfoInputs.cache
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\obj\Debug\netcoreapp2.1\dATABASE.AssemblyInfo.cs
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\bin\Debug\netcoreapp2.1\dATABASE.pdb
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\obj\Debug\netcoreapp2.1\dATABASE.dll
+c:\users\domsefr017\source\repos\dATABASE\dATABASE\obj\Debug\netcoreapp2.1\dATABASE.pdb
